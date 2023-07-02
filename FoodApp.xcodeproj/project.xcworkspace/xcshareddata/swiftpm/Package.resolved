@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "navstackswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AlexShtandaruk/NavStackSwiftUI",
+      "state" : {
+        "branch" : "main",
+        "revision" : "56e5d9cfce597405687cc6a5fe9c547cf156babd"
+      }
+    }
+  ],
+  "version" : 2
+}
